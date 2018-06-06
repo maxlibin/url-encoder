@@ -1,3 +1,7 @@
+#Command line version of url encoder.
+
+##Inspired from:
+
 # Url encoder for SVG
 
 http://yoksel.github.io/url-encoder

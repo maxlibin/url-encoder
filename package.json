@@ -1,0 +1,22 @@
+{
+  "name": "url-encoder-svgbg",
+  "version": "1.0.0",
+  "description": "##Inspired from:",
+  "bin": {
+    "svgbg": "script.js"
+  },
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxlibin/url-encoder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxlibin/url-encoder/issues"
+  },
+  "homepage": "https://github.com/maxlibin/url-encoder#readme"
+}
