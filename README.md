@@ -1,4 +1,9 @@
 # Command line version of url encoder.
+`npm i -g url-encoder-svgbg`
+
+## use svgbg command
+
+`svgbg path/to/svg/gamepad.svg`
 
 ## Inspired from:
 
