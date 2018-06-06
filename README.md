@@ -1,6 +1,6 @@
-#Command line version of url encoder.
+# Command line version of url encoder.
 
-##Inspired from:
+## Inspired from:
 
 # Url encoder for SVG
 
